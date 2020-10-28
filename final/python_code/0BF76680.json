@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"matteo toscani",value:"2",category:0,id:1},
+{name:"k r gegenfurtner",value:"2",category:0,id:2},
+{name:"matteo valsecchi",value:"2",category:0,id:3},
+{name:"75AA4903",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

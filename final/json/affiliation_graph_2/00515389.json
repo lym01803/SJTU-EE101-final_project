@@ -1,0 +1,14 @@
+{
+nodes:[
+{name:"salah a khairy",value:"2",category:0,id:1},
+{name:"george c miller",value:"2",category:0,id:2},
+{name:"7A289F76",value:"3",category:1,id:3},
+],
+links:[
+{source:1, target:3},
+{source:2, target:3},
+{source:2, target:3},
+{source:1, target:3},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"william s knowles",value:"2",category:0,id:1},
+{name:"irving l wieselman",value:"2",category:0,id:2},
+{name:"raymond stuartwilliams",value:"2",category:0,id:3},
+{name:"7C6ECC4D",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

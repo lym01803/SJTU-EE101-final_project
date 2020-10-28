@@ -1,0 +1,27 @@
+{
+nodes:[
+{name:"domenec puig",value:"2",category:0,id:1},
+{name:"m a garcia",value:"2",category:0,id:2},
+{name:"hatem a rashwan",value:"2",category:0,id:3},
+{name:"zoltan esik",value:"2",category:0,id:4},
+{name:"guangwu liu",value:"2",category:0,id:5},
+{name:"593E4F89",value:"3",category:1,id:6},
+{name:"76C90D56",value:"3",category:1,id:7},
+{name:"78267871",value:"3",category:1,id:8},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:3, target:7},
+{source:1, target:7},
+{source:1, target:7},
+{source:3, target:7},
+{source:4, target:8},
+{source:5, target:8},
+{source:5, target:8},
+{source:4, target:8},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

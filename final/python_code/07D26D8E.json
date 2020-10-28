@@ -1,0 +1,29 @@
+{
+nodes:[
+{name:"hajime mizuyama",value:"2",category:0,id:1},
+{name:"miku imai",value:"2",category:0,id:2},
+{name:"eiji miyashita",value:"2",category:0,id:3},
+{name:"tomomi nonaka",value:"2",category:0,id:4},
+{name:"5BB5F27F",value:"3",category:1,id:5},
+{name:"5EAC4F13",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:1, target:6},
+{source:3, target:6},
+{source:1, target:6},
+{source:4, target:6},
+{source:3, target:6},
+{source:1, target:6},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:1, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

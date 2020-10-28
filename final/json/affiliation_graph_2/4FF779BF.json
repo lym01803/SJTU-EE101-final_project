@@ -1,0 +1,28 @@
+{
+nodes:[
+{name:"w john kress",value:"2",category:0,id:1},
+{name:"ida c lopez",value:"2",category:0,id:2},
+{name:"ling zhang",value:"2",category:0,id:3},
+{name:"7EBDA3A7",value:"3",category:1,id:4},
+{name:"83EB60B2",value:"3",category:1,id:5},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

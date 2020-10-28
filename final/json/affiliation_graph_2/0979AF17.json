@@ -1,0 +1,28 @@
+{
+nodes:[
+{name:"stephane boyera",value:"2",category:0,id:1},
+{name:"max froumentin",value:"2",category:0,id:2},
+{name:"aman grewal",value:"2",category:0,id:3},
+{name:"790334B1",value:"3",category:1,id:4},
+{name:"7D23656A",value:"3",category:1,id:5},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:5},
+{source:3, target:5},
+{source:3, target:5},
+{source:1, target:5},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

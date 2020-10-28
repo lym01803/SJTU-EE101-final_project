@@ -1,0 +1,32 @@
+{
+nodes:[
+{name:"yllias chali",value:"2",category:0,id:1},
+{name:"shafiq joty",value:"2",category:0,id:2},
+{name:"chris sanden",value:"2",category:0,id:3},
+{name:"john z zhang",value:"2",category:0,id:4},
+{name:"sadid a hasan",value:"2",category:0,id:5},
+{name:"7BB1CC88",value:"3",category:1,id:6},
+{name:"7BDD9A5B",value:"3",category:1,id:7},
+{name:"7E3FBE66",value:"3",category:1,id:8},
+{name:"812DBDF7",value:"3",category:1,id:9},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:3, target:7},
+{source:4, target:7},
+{source:4, target:7},
+{source:3, target:7},
+{source:1, target:8},
+{source:5, target:8},
+{source:5, target:8},
+{source:1, target:8},
+{source:1, target:9},
+{source:2, target:9},
+{source:2, target:9},
+{source:1, target:9},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

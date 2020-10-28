@@ -1,0 +1,27 @@
+{
+nodes:[
+{name:"daniel l silver",value:"2",category:0,id:1},
+{name:"ryan poirier",value:"2",category:0,id:2},
+{name:"elhadi shakshuki",value:"2",category:0,id:3},
+{name:"hsianghwa koo",value:"2",category:0,id:4},
+{name:"adam j biggs",value:"2",category:0,id:5},
+{name:"069670B8",value:"3",category:1,id:6},
+{name:"089FC3DF",value:"3",category:1,id:7},
+{name:"5EFA9FCA",value:"3",category:1,id:8},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:3, target:7},
+{source:4, target:7},
+{source:4, target:7},
+{source:3, target:7},
+{source:1, target:8},
+{source:5, target:8},
+{source:5, target:8},
+{source:1, target:8},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

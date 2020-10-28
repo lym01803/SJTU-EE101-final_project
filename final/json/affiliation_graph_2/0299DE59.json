@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"donald s wyner",value:"2",category:0,id:1},
+{name:"jack m schwartz",value:"2",category:0,id:2},
+{name:"bernard plagman",value:"2",category:0,id:3},
+{name:"gene altshuler",value:"2",category:0,id:4},
+{name:"7BF2F635",value:"3",category:1,id:5},
+{name:"7F036A97",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

@@ -1,0 +1,28 @@
+{
+nodes:[
+{name:"yong ge",value:"2",category:0,id:1},
+{name:"hui xiong",value:"2",category:0,id:2},
+{name:"chuanren liu",value:"2",category:0,id:3},
+{name:"7628E569",value:"3",category:1,id:4},
+{name:"80D8449F",value:"3",category:1,id:5},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

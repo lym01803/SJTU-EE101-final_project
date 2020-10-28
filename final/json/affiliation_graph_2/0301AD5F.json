@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"isaac lera",value:"2",category:0,id:1},
+{name:"carlos juiz",value:"2",category:0,id:2},
+{name:"carlos guerrero",value:"2",category:0,id:3},
+{name:"0B26E86C",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

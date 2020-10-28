@@ -1,0 +1,26 @@
+{
+nodes:[
+{name:"luca cinquini",value:"2",category:0,id:1},
+{name:"j l benedict",value:"2",category:0,id:2},
+{name:"robert sharman",value:"2",category:0,id:3},
+{name:"jennifer abernethy",value:"2",category:0,id:4},
+{name:"07F880BE",value:"3",category:1,id:5},
+{name:"5918F959",value:"3",category:1,id:6},
+{name:"8179A25A",value:"3",category:1,id:7},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+{source:1, target:7},
+{source:2, target:7},
+{source:2, target:7},
+{source:1, target:7},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

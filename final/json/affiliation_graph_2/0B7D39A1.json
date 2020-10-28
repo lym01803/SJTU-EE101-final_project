@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"athanasios manitsaris",value:"2",category:0,id:1},
+{name:"christos kouroupetroglou",value:"2",category:0,id:2},
+{name:"michail salampasis",value:"2",category:0,id:3},
+{name:"78CA1537",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

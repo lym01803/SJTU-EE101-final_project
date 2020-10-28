@@ -1,0 +1,27 @@
+{
+nodes:[
+{name:"mark girolami",value:"2",category:0,id:1},
+{name:"leif azzopardi",value:"2",category:0,id:2},
+{name:"malcolm crowe",value:"2",category:0,id:3},
+{name:"christos grecos",value:"2",category:0,id:4},
+{name:"bobby geary",value:"2",category:0,id:5},
+{name:"75C0D0C9",value:"3",category:1,id:6},
+{name:"782A8644",value:"3",category:1,id:7},
+{name:"802C8D2D",value:"3",category:1,id:8},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:3, target:7},
+{source:2, target:7},
+{source:2, target:7},
+{source:3, target:7},
+{source:4, target:8},
+{source:5, target:8},
+{source:5, target:8},
+{source:4, target:8},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

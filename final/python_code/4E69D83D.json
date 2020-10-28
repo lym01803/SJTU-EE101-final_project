@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"umi oyabu",value:"2",category:0,id:1},
+{name:"kimiyoshi miyata",value:"2",category:0,id:2},
+{name:"michihiro kojima",value:"2",category:0,id:3},
+{name:"7C4E3B38",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

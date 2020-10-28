@@ -1,0 +1,20 @@
+{
+nodes:[
+{name:"caizhi zhu",value:"2",category:0,id:1},
+{name:"shinichi satoh",value:"2",category:0,id:2},
+{name:"sebastien poullot",value:"2",category:0,id:3},
+{name:"7E87DF89",value:"3",category:1,id:4},
+{name:"7EF59FBD",value:"3",category:1,id:5},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:3, target:5},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

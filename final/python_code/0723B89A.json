@@ -1,0 +1,14 @@
+{
+nodes:[
+{name:"kees tuinenbreijer",value:"2",category:0,id:1},
+{name:"marleen h schut",value:"2",category:0,id:2},
+{name:"5E62A561",value:"3",category:1,id:3},
+],
+links:[
+{source:1, target:3},
+{source:2, target:3},
+{source:2, target:3},
+{source:1, target:3},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

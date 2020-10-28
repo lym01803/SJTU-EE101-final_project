@@ -1,0 +1,30 @@
+{
+nodes:[
+{name:"lindsay w macdonald",value:"2",category:0,id:1},
+{name:"m ronnier luo",value:"2",category:0,id:2},
+{name:"youngshin kwak",value:"2",category:0,id:3},
+{name:"caterina ripamonti",value:"2",category:0,id:4},
+{name:"stephen westland",value:"2",category:0,id:5},
+{name:"7A74D892",value:"3",category:1,id:6},
+{name:"8128896A",value:"3",category:1,id:7},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:3, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:2, target:6},
+{source:3, target:6},
+{source:3, target:6},
+{source:1, target:6},
+{source:3, target:6},
+{source:2, target:6},
+{source:4, target:7},
+{source:5, target:7},
+{source:5, target:7},
+{source:4, target:7},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

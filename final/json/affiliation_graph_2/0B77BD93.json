@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"eric normand",value:"2",category:0,id:1},
+{name:"sheila tejada",value:"2",category:0,id:2},
+{name:"shengru tu",value:"2",category:0,id:3},
+{name:"michael ruth",value:"2",category:0,id:4},
+{name:"0426BEC2",value:"3",category:1,id:5},
+{name:"7EF1B665",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

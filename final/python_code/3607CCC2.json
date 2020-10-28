@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"arnau pratperez",value:"2",category:0,id:1},
+{name:"joseplluis larribapey",value:"2",category:0,id:2},
+{name:"francesc morenonoguer",value:"2",category:0,id:3},
+{name:"alberto sanfeliu",value:"2",category:0,id:4},
+{name:"7A99C59F",value:"3",category:1,id:5},
+{name:"80454CE9",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

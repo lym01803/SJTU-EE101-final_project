@@ -1,0 +1,20 @@
+{
+nodes:[
+{name:"ruven brooks",value:"2",category:0,id:1},
+{name:"eamon barrett",value:"2",category:0,id:2},
+{name:"jon f heiser",value:"2",category:0,id:3},
+{name:"7964FAA0",value:"3",category:1,id:4},
+{name:"831980EE",value:"3",category:1,id:5},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:5},
+{source:1, target:5},
+{source:1, target:5},
+{source:3, target:5},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

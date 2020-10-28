@@ -1,0 +1,28 @@
+{
+nodes:[
+{name:"phang keat keong",value:"2",category:0,id:1},
+{name:"keng hoon gan",value:"2",category:0,id:2},
+{name:"chee seng chan",value:"2",category:0,id:3},
+{name:"mei kuan lim",value:"2",category:0,id:4},
+{name:"zadeh kaljahi",value:"2",category:0,id:5},
+{name:"rasoul samad",value:"2",category:0,id:6},
+{name:"775DB481",value:"3",category:1,id:7},
+{name:"7EF59FBD",value:"3",category:1,id:8},
+{name:"7F2D74F9",value:"3",category:1,id:9},
+],
+links:[
+{source:1, target:7},
+{source:2, target:7},
+{source:2, target:7},
+{source:1, target:7},
+{source:3, target:8},
+{source:4, target:8},
+{source:4, target:8},
+{source:3, target:8},
+{source:5, target:9},
+{source:6, target:9},
+{source:6, target:9},
+{source:5, target:9},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

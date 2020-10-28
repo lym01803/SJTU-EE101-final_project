@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"xavier skapin",value:"2",category:0,id:1},
+{name:"philippe meseure",value:"2",category:0,id:2},
+{name:"michele gouiffes",value:"2",category:0,id:3},
+{name:"christine fernandezmaloigne",value:"2",category:0,id:4},
+{name:"59304A24",value:"3",category:1,id:5},
+{name:"5F925ECB",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

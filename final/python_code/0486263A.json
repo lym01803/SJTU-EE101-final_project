@@ -1,0 +1,25 @@
+{
+nodes:[
+{name:"luoqing li",value:"2",category:0,id:1},
+{name:"xiaoli pan",value:"2",category:0,id:2},
+{name:"hui zhou",value:"2",category:0,id:3},
+{name:"77213C34",value:"3",category:1,id:4},
+{name:"77CDFFF3",value:"3",category:1,id:5},
+{name:"7B8ABAFB",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:1, target:5},
+{source:3, target:5},
+{source:3, target:5},
+{source:1, target:5},
+{source:1, target:6},
+{source:3, target:6},
+{source:3, target:6},
+{source:1, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

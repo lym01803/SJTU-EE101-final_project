@@ -1,0 +1,20 @@
+{
+nodes:[
+{name:"arsham borumand saeid",value:"2",category:0,id:1},
+{name:"marjan kchaki rafsanjani",value:"2",category:0,id:2},
+{name:"marjan kuchaki rafsanjani",value:"2",category:0,id:3},
+{name:"79EC703E",value:"3",category:1,id:4},
+{name:"803419A4",value:"3",category:1,id:5},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:5},
+{source:1, target:5},
+{source:1, target:5},
+{source:3, target:5},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

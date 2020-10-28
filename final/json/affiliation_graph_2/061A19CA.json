@@ -1,0 +1,31 @@
+{
+nodes:[
+{name:"douglas blank",value:"2",category:0,id:1},
+{name:"deepak kumar",value:"2",category:0,id:2},
+{name:"paul ruvolo",value:"2",category:0,id:3},
+{name:"eric eaton",value:"2",category:0,id:4},
+{name:"03C79477",value:"3",category:1,id:5},
+{name:"04DAD384",value:"3",category:1,id:6},
+{name:"5A93A79B",value:"3",category:1,id:7},
+{name:"841C40BF",value:"3",category:1,id:8},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+{source:3, target:7},
+{source:4, target:7},
+{source:4, target:7},
+{source:3, target:7},
+{source:1, target:8},
+{source:2, target:8},
+{source:2, target:8},
+{source:1, target:8},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

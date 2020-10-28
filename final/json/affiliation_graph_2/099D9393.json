@@ -1,0 +1,27 @@
+{
+nodes:[
+{name:"gael dias",value:"2",category:0,id:1},
+{name:"elsa alves",value:"2",category:0,id:2},
+{name:"chandrashekhar padole",value:"2",category:0,id:3},
+{name:"luis a alexandre",value:"2",category:0,id:4},
+{name:"joao v cordeiro",value:"2",category:0,id:5},
+{name:"5908753B",value:"3",category:1,id:6},
+{name:"7D0FA640",value:"3",category:1,id:7},
+{name:"7E247009",value:"3",category:1,id:8},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:3, target:7},
+{source:4, target:7},
+{source:4, target:7},
+{source:3, target:7},
+{source:1, target:8},
+{source:5, target:8},
+{source:5, target:8},
+{source:1, target:8},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

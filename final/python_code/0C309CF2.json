@@ -1,0 +1,30 @@
+{
+nodes:[
+{name:"simon fong",value:"2",category:0,id:1},
+{name:"hang yang",value:"2",category:0,id:2},
+{name:"yiyang yang",value:"2",category:0,id:3},
+{name:"zhiguo gong",value:"2",category:0,id:4},
+{name:"leong hou u",value:"2",category:0,id:5},
+{name:"75280A24",value:"3",category:1,id:6},
+{name:"78EB5B35",value:"3",category:1,id:7},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:3, target:7},
+{source:4, target:7},
+{source:3, target:7},
+{source:5, target:7},
+{source:4, target:7},
+{source:3, target:7},
+{source:4, target:7},
+{source:5, target:7},
+{source:5, target:7},
+{source:3, target:7},
+{source:5, target:7},
+{source:4, target:7},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

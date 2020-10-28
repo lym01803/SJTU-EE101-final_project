@@ -1,0 +1,26 @@
+{
+nodes:[
+{name:"richard fox",value:"2",category:0,id:1},
+{name:"william k hartmann",value:"2",category:0,id:2},
+{name:"alina campan",value:"2",category:0,id:3},
+{name:"traian marius truta",value:"2",category:0,id:4},
+{name:"07F40E66",value:"3",category:1,id:5},
+{name:"6BCB2887",value:"3",category:1,id:6},
+{name:"81D46662",value:"3",category:1,id:7},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+{source:3, target:7},
+{source:4, target:7},
+{source:4, target:7},
+{source:3, target:7},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

@@ -1,0 +1,29 @@
+{
+nodes:[
+{name:"masato kawamoto",value:"2",category:0,id:1},
+{name:"takayuki hamamoto",value:"2",category:0,id:2},
+{name:"seiichiro hangai",value:"2",category:0,id:3},
+{name:"takeshi higuchi",value:"2",category:0,id:4},
+{name:"04219C5A",value:"3",category:1,id:5},
+{name:"5D91729A",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:2, target:5},
+{source:3, target:5},
+{source:3, target:5},
+{source:1, target:5},
+{source:3, target:5},
+{source:2, target:5},
+{source:4, target:6},
+{source:3, target:6},
+{source:3, target:6},
+{source:4, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

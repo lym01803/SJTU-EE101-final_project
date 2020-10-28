@@ -1,0 +1,33 @@
+{
+nodes:[
+{name:"yusuke mitarai",value:"2",category:0,id:1},
+{name:"masakazu matsugu",value:"2",category:0,id:2},
+{name:"m matsuga",value:"2",category:0,id:3},
+{name:"chisang poon",value:"2",category:0,id:4},
+{name:"masao yamanaka",value:"2",category:0,id:5},
+{name:"hirotaka hachiya",value:"2",category:0,id:6},
+{name:"0C0B5E62",value:"3",category:1,id:7},
+{name:"5BDD9BFF",value:"3",category:1,id:8},
+{name:"76E4D73D",value:"3",category:1,id:9},
+{name:"7DE69AFC",value:"3",category:1,id:10},
+],
+links:[
+{source:1, target:7},
+{source:2, target:7},
+{source:2, target:7},
+{source:1, target:7},
+{source:3, target:8},
+{source:4, target:8},
+{source:4, target:8},
+{source:3, target:8},
+{source:2, target:9},
+{source:5, target:9},
+{source:5, target:9},
+{source:2, target:9},
+{source:2, target:10},
+{source:6, target:10},
+{source:6, target:10},
+{source:2, target:10},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

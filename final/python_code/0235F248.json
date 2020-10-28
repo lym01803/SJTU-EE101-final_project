@@ -1,0 +1,32 @@
+{
+nodes:[
+{name:"eduard hoenkamp",value:"2",category:0,id:1},
+{name:"dawei song",value:"2",category:0,id:2},
+{name:"rob de groot",value:"2",category:0,id:3},
+{name:"sander van dijk",value:"2",category:0,id:4},
+{name:"gijs van dinther",value:"2",category:0,id:5},
+{name:"752D5A7E",value:"3",category:1,id:6},
+{name:"7621673E",value:"3",category:1,id:7},
+{name:"7B47958C",value:"3",category:1,id:8},
+{name:"7DEBEB66",value:"3",category:1,id:9},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:1, target:7},
+{source:3, target:7},
+{source:3, target:7},
+{source:1, target:7},
+{source:4, target:8},
+{source:1, target:8},
+{source:1, target:8},
+{source:4, target:8},
+{source:1, target:9},
+{source:5, target:9},
+{source:5, target:9},
+{source:1, target:9},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

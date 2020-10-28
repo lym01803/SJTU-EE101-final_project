@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"gaofeng zhao",value:"2",category:0,id:1},
+{name:"xueying zhang",value:"2",category:0,id:2},
+{name:"jing bai",value:"2",category:0,id:3},
+{name:"5EA5968C",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

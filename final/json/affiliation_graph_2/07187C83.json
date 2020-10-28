@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"bineng zhong",value:"2",category:0,id:1},
+{name:"zhen cui",value:"2",category:0,id:2},
+{name:"shunkai fu",value:"2",category:0,id:3},
+{name:"sein minn",value:"2",category:0,id:4},
+{name:"080DABFC",value:"3",category:1,id:5},
+{name:"78C93F4F",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

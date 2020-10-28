@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"bill manaris",value:"2",category:0,id:1},
+{name:"luca pellicoro",value:"2",category:0,id:2},
+{name:"patrick roos",value:"2",category:0,id:3},
+{name:"7D42E5D1",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

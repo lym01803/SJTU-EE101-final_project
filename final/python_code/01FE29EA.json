@@ -1,0 +1,26 @@
+{
+nodes:[
+{name:"max choly",value:"2",category:0,id:1},
+{name:"wei ding",value:"2",category:0,id:2},
+{name:"yang mu",value:"2",category:0,id:3},
+{name:"dan a simovici",value:"2",category:0,id:4},
+{name:"6648771E",value:"3",category:1,id:5},
+{name:"779D91C2",value:"3",category:1,id:6},
+{name:"7BB6827B",value:"3",category:1,id:7},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:3, target:6},
+{source:4, target:7},
+{source:2, target:7},
+{source:2, target:7},
+{source:4, target:7},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

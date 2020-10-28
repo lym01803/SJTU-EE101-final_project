@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"frank drewes",value:"2",category:0,id:1},
+{name:"suna bensch",value:"2",category:0,id:2},
+{name:"haibo li",value:"2",category:0,id:3},
+{name:"zhengrong yao",value:"2",category:0,id:4},
+{name:"6FC767C7",value:"3",category:1,id:5},
+{name:"7C0CA234",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

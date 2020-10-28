@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"charturong tantibundhit",value:"2",category:0,id:1},
+{name:"sarawut makwimanloy",value:"2",category:0,id:2},
+{name:"laddawan kulnarattana",value:"2",category:0,id:3},
+{name:"songsak rongviriyapanish",value:"2",category:0,id:4},
+{name:"7CFB9B9A",value:"3",category:1,id:5},
+{name:"8138C0B3",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

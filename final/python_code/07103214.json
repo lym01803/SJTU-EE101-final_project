@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"sergei koltcov",value:"2",category:0,id:1},
+{name:"olessia koltsova",value:"2",category:0,id:2},
+{name:"svetlana alexeeva",value:"2",category:0,id:3},
+{name:"79632D79",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"f boray tek",value:"2",category:0,id:1},
+{name:"i k iyidir",value:"2",category:0,id:2},
+{name:"dogan kircali",value:"2",category:0,id:3},
+{name:"5D9B26BE",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

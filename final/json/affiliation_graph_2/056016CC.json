@@ -1,0 +1,20 @@
+{
+nodes:[
+{name:"emmanuel nauer",value:"2",category:0,id:1},
+{name:"emmanuelle gaillard",value:"2",category:0,id:2},
+{name:"gerome canals",value:"2",category:0,id:3},
+{name:"79785474",value:"3",category:1,id:4},
+{name:"799E4B44",value:"3",category:1,id:5},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:5},
+{source:1, target:5},
+{source:1, target:5},
+{source:3, target:5},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

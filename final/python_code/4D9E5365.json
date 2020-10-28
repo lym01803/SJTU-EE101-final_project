@@ -1,0 +1,19 @@
+{
+nodes:[
+{name:"rongchi chang",value:"2",category:0,id:1},
+{name:"feichun tseng",value:"2",category:0,id:2},
+{name:"77890BEC",value:"3",category:1,id:3},
+{name:"7C6D8B9F",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:3},
+{source:2, target:3},
+{source:2, target:3},
+{source:1, target:3},
+{source:1, target:4},
+{source:2, target:4},
+{source:2, target:4},
+{source:1, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

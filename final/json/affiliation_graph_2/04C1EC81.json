@@ -1,0 +1,31 @@
+{
+nodes:[
+{name:"qusay h mahmoud",value:"2",category:0,id:1},
+{name:"eyhab almasri",value:"2",category:0,id:2},
+{name:"william m darling",value:"2",category:0,id:3},
+{name:"fei song",value:"2",category:0,id:4},
+{name:"7590B035",value:"3",category:1,id:5},
+{name:"7D6FDE68",value:"3",category:1,id:6},
+{name:"7F697040",value:"3",category:1,id:7},
+{name:"7FE99146",value:"3",category:1,id:8},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+{source:1, target:7},
+{source:2, target:7},
+{source:2, target:7},
+{source:1, target:7},
+{source:1, target:8},
+{source:2, target:8},
+{source:2, target:8},
+{source:1, target:8},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

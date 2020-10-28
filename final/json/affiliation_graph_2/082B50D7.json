@@ -1,0 +1,24 @@
+{
+nodes:[
+{name:"zhiang wu",value:"2",category:0,id:1},
+{name:"jie cao",value:"2",category:0,id:2},
+{name:"77F404AB",value:"3",category:1,id:3},
+{name:"7BDB568F",value:"3",category:1,id:4},
+{name:"7F2DAD09",value:"3",category:1,id:5},
+],
+links:[
+{source:1, target:3},
+{source:2, target:3},
+{source:2, target:3},
+{source:1, target:3},
+{source:2, target:4},
+{source:1, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:2, target:5},
+{source:1, target:5},
+{source:1, target:5},
+{source:2, target:5},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

@@ -1,0 +1,28 @@
+{
+nodes:[
+{name:"luc j van gool",value:"2",category:0,id:1},
+{name:"geert caenen",value:"2",category:0,id:2},
+{name:"yves deville",value:"2",category:0,id:3},
+{name:"pierre schaus",value:"2",category:0,id:4},
+{name:"thibault helleputte",value:"2",category:0,id:5},
+{name:"pierre dupont",value:"2",category:0,id:6},
+{name:"5BAA04DB",value:"3",category:1,id:7},
+{name:"7E32CD83",value:"3",category:1,id:8},
+{name:"7E72282A",value:"3",category:1,id:9},
+],
+links:[
+{source:1, target:7},
+{source:2, target:7},
+{source:2, target:7},
+{source:1, target:7},
+{source:3, target:8},
+{source:4, target:8},
+{source:4, target:8},
+{source:3, target:8},
+{source:5, target:9},
+{source:6, target:9},
+{source:6, target:9},
+{source:5, target:9},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

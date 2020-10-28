@@ -1,0 +1,30 @@
+{
+nodes:[
+{name:"darrin m hanna",value:"2",category:0,id:1},
+{name:"richard e haskell",value:"2",category:0,id:2},
+{name:"kevin van sickle",value:"2",category:0,id:3},
+{name:"oktay ibrahimov",value:"2",category:0,id:4},
+{name:"ishwar k sethi",value:"2",category:0,id:5},
+{name:"04FA6968",value:"3",category:1,id:6},
+{name:"5D24DD3C",value:"3",category:1,id:7},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:3, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:2, target:6},
+{source:3, target:6},
+{source:3, target:6},
+{source:1, target:6},
+{source:3, target:6},
+{source:2, target:6},
+{source:4, target:7},
+{source:5, target:7},
+{source:5, target:7},
+{source:4, target:7},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

@@ -1,0 +1,27 @@
+{
+nodes:[
+{name:"victor s sheng",value:"2",category:0,id:1},
+{name:"robert kyle eichelberger",value:"2",category:0,id:2},
+{name:"bryce nicholson",value:"2",category:0,id:3},
+{name:"victor sheng",value:"2",category:0,id:4},
+{name:"clifford a tawiah",value:"2",category:0,id:5},
+{name:"81F8D69E",value:"3",category:1,id:6},
+{name:"823B5C10",value:"3",category:1,id:7},
+{name:"82E31F81",value:"3",category:1,id:8},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:1, target:7},
+{source:3, target:7},
+{source:3, target:7},
+{source:1, target:7},
+{source:4, target:8},
+{source:5, target:8},
+{source:5, target:8},
+{source:4, target:8},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

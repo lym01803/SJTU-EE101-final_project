@@ -1,0 +1,25 @@
+{
+nodes:[
+{name:"michael p georgeff",value:"2",category:0,id:1},
+{name:"anand s rao",value:"2",category:0,id:2},
+{name:"michael p georgeffand",value:"2",category:0,id:3},
+{name:"047EFF3C",value:"3",category:1,id:4},
+{name:"58BD9702",value:"3",category:1,id:5},
+{name:"7D02191B",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:3, target:5},
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

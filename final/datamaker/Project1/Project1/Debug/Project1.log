@@ -1,0 +1,3 @@
+﻿  data.cpp
+f:\xampp\htdocs\final\data\project1\project1\chain_hash.h(79): warning C4715: “myHash<int>::operator[]”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> F:\xampp\htdocs\final\data\Project1\Debug\Project1.exe

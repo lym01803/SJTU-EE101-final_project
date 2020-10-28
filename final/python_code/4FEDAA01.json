@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"khalid alkofahi",value:"2",category:0,id:1},
+{name:"tonya custis",value:"2",category:0,id:2},
+{name:"ravikumar kondadadi",value:"2",category:0,id:3},
+{name:"frank schilder",value:"2",category:0,id:4},
+{name:"7CC8A491",value:"3",category:1,id:5},
+{name:"7D49782E",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

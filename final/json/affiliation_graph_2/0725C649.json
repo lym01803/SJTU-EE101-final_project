@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"christoph gietl",value:"2",category:0,id:1},
+{name:"fabian p reffel",value:"2",category:0,id:2},
+{name:"adalbert f x wilhelm",value:"2",category:0,id:3},
+{name:"heike hofmann",value:"2",category:0,id:4},
+{name:"107A00E6",value:"3",category:1,id:5},
+{name:"7685A94A",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

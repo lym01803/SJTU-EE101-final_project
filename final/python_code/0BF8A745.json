@@ -1,0 +1,27 @@
+{
+nodes:[
+{name:"kaihua zhang",value:"2",category:0,id:1},
+{name:"qingshan liu",value:"2",category:0,id:2},
+{name:"lin wang",value:"2",category:0,id:3},
+{name:"ting li",value:"2",category:0,id:4},
+{name:"yuanshu jing",value:"2",category:0,id:5},
+{name:"01C1C066",value:"3",category:1,id:6},
+{name:"78AB99E7",value:"3",category:1,id:7},
+{name:"7C15A9E4",value:"3",category:1,id:8},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:3, target:7},
+{source:4, target:7},
+{source:4, target:7},
+{source:3, target:7},
+{source:5, target:8},
+{source:3, target:8},
+{source:3, target:8},
+{source:5, target:8},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

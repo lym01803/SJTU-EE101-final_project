@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"harmeet kaur",value:"2",category:0,id:1},
+{name:"sudeep marwaha",value:"2",category:0,id:2},
+{name:"punam bedi",value:"2",category:0,id:3},
+{name:"58C0BECB",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

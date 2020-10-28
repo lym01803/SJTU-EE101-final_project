@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"shrishail s gajbhar",value:"2",category:0,id:1},
+{name:"manjunath v joshi",value:"2",category:0,id:2},
+{name:"ashish phophalia",value:"2",category:0,id:3},
+{name:"suman k mitra",value:"2",category:0,id:4},
+{name:"77ECB419",value:"3",category:1,id:5},
+{name:"7C2999D5",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

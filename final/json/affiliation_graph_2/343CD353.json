@@ -1,0 +1,14 @@
+{
+nodes:[
+{name:"michael breus",value:"2",category:0,id:1},
+{name:"yong chul ju",value:"2",category:0,id:2},
+{name:"8280F4F6",value:"3",category:1,id:3},
+],
+links:[
+{source:1, target:3},
+{source:2, target:3},
+{source:2, target:3},
+{source:1, target:3},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

@@ -1,0 +1,32 @@
+{
+nodes:[
+{name:"mitsuru ambai",value:"2",category:0,id:1},
+{name:"yuichi yoshida",value:"2",category:0,id:2},
+{name:"osamu masutani",value:"2",category:0,id:3},
+{name:"hirotoshi iwasaki",value:"2",category:0,id:4},
+{name:"mitsuo yamamoto",value:"2",category:0,id:5},
+{name:"79E5E2FA",value:"3",category:1,id:6},
+{name:"7A6EDF2C",value:"3",category:1,id:7},
+{name:"7A9BB3AF",value:"3",category:1,id:8},
+{name:"7E49D55B",value:"3",category:1,id:9},
+],
+links:[
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:3, target:7},
+{source:4, target:7},
+{source:4, target:7},
+{source:3, target:7},
+{source:5, target:8},
+{source:4, target:8},
+{source:4, target:8},
+{source:5, target:8},
+{source:1, target:9},
+{source:2, target:9},
+{source:2, target:9},
+{source:1, target:9},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

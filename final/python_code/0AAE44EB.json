@@ -1,0 +1,21 @@
+{
+nodes:[
+{name:"chakkrit kamtongdee",value:"2",category:0,id:1},
+{name:"n wongkasem",value:"2",category:0,id:2},
+{name:"puripong suthisopapan",value:"2",category:0,id:3},
+{name:"virasit imtawil",value:"2",category:0,id:4},
+{name:"7E9A61B8",value:"3",category:1,id:5},
+{name:"80A42F87",value:"3",category:1,id:6},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:4, target:6},
+{source:4, target:6},
+{source:3, target:6},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

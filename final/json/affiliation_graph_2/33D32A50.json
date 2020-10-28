@@ -1,0 +1,20 @@
+{
+nodes:[
+{name:"janet wesson",value:"2",category:0,id:1},
+{name:"lynette barnard",value:"2",category:0,id:2},
+{name:"darelle van greunen",value:"2",category:0,id:3},
+{name:"58C43B1F",value:"3",category:1,id:4},
+{name:"5DE21EF3",value:"3",category:1,id:5},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:5},
+{source:1, target:5},
+{source:1, target:5},
+{source:3, target:5},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

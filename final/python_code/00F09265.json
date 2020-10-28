@@ -1,0 +1,31 @@
+{
+nodes:[
+{name:"kristian bredies",value:"2",category:0,id:1},
+{name:"martin holler",value:"2",category:0,id:2},
+{name:"yiqiu dong",value:"2",category:0,id:3},
+{name:"michael hintermuller",value:"2",category:0,id:4},
+{name:"009692D7",value:"3",category:1,id:5},
+{name:"072BA81C",value:"3",category:1,id:6},
+{name:"34F66D31",value:"3",category:1,id:7},
+{name:"5EF89FCF",value:"3",category:1,id:8},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:1, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:1, target:6},
+{source:1, target:7},
+{source:2, target:7},
+{source:2, target:7},
+{source:1, target:7},
+{source:3, target:8},
+{source:4, target:8},
+{source:4, target:8},
+{source:3, target:8},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

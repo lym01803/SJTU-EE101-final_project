@@ -1,0 +1,31 @@
+{
+nodes:[
+{name:"david r martin",value:"2",category:0,id:1},
+{name:"hao jiang",value:"2",category:0,id:2},
+{name:"stella x yu",value:"2",category:0,id:3},
+{name:"christina pavlopoulou",value:"2",category:0,id:4},
+{name:"5AC2BBB1",value:"3",category:1,id:5},
+{name:"78C0879F",value:"3",category:1,id:6},
+{name:"7EA6DC0B",value:"3",category:1,id:7},
+{name:"7FF5A016",value:"3",category:1,id:8},
+],
+links:[
+{source:1, target:5},
+{source:2, target:5},
+{source:2, target:5},
+{source:1, target:5},
+{source:3, target:6},
+{source:2, target:6},
+{source:2, target:6},
+{source:3, target:6},
+{source:1, target:7},
+{source:2, target:7},
+{source:2, target:7},
+{source:1, target:7},
+{source:4, target:8},
+{source:3, target:8},
+{source:3, target:8},
+{source:4, target:8},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

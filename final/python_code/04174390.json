@@ -1,0 +1,23 @@
+{
+nodes:[
+{name:"maja j mataric",value:"2",category:0,id:1},
+{name:"caitlyn clabaugh",value:"2",category:0,id:2},
+{name:"fei sha",value:"2",category:0,id:3},
+{name:"47C7C77A",value:"3",category:1,id:4},
+],
+links:[
+{source:1, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+{source:1, target:4},
+{source:2, target:4},
+{source:3, target:4},
+{source:3, target:4},
+{source:1, target:4},
+{source:3, target:4},
+{source:2, target:4},
+],
+categories:[{name:"author"},{name:"paper"}]
+}

@@ -1,0 +1,28 @@
+{
+nodes:[
+{name:"nancy ide",value:"2",category:0,id:1},
+{name:"keith suderman",value:"2",category:0,id:2},
+{name:"john merritt unsworth",value:"2",category:0,id:3},
+{name:"michael joyce",value:"2",category:0,id:4},
+{name:"christopher a welty",value:"2",category:0,id:5},
+{name:"j o jenkins",value:"2",category:0,id:6},
+{name:"7549C422",value:"3",category:1,id:7},
+{name:"7AE0E567",value:"3",category:1,id:8},
+{name:"7D00D888",value:"3",category:1,id:9},
+],
+links:[
+{source:1, target:7},
+{source:2, target:7},
+{source:2, target:7},
+{source:1, target:7},
+{source:3, target:8},
+{source:4, target:8},
+{source:4, target:8},
+{source:3, target:8},
+{source:5, target:9},
+{source:6, target:9},
+{source:6, target:9},
+{source:5, target:9},
+],
+categories:[{name:"author"},{name:"paper"}]
+}
